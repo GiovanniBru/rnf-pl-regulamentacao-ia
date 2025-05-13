@@ -1,4 +1,4 @@
-# Uma proposta de requisitos não funcionais para aderência de sistemas computacionais ao projeto de lei de regulamentação da inteligência artificial
+# Uma Proposta de Requisitos Não Funcionais para Aderência de Sistemas Computacionais ao Projeto de Lei de Regulamentação da Inteligência Artificial
 
 Este repositório contém materiais suplementares ao artigo com o mesmo nome, incluindo apêndices e referências utilizadas no estudo.
 
@@ -16,7 +16,7 @@ O artigo propõe um conjunto de Requisitos Não Funcionais (RNF) extraídos da a
 
 Caso utilize este material em alguma pesquisa ou projeto, por favor cite o artigo:
 
-> [XXXXXXXX]. Uma proposta de requisitos não funcionais para aderência de sistemas computacionais ao projeto de lei de regulamentação da inteligência artificial. [Ano].
+> [XXXXXXXX]. Uma Proposta de Requisitos Não Funcionais para Aderência de Sistemas Computacionais ao Projeto de Lei de Regulamentação da Inteligência Artificial. [2025].
 
 ## Licença
 
