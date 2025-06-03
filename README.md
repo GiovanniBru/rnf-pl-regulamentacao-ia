@@ -16,7 +16,10 @@ O artigo propõe um conjunto de Requisitos Não Funcionais (RNF) extraídos da a
 
 Caso utilize este material em alguma pesquisa ou projeto, por favor cite o artigo:
 
-> [XXXXXXXX]. Uma Proposta de Requisitos Não Funcionais para Aderência de Sistemas Computacionais ao Projeto de Lei de Regulamentação da Inteligência Artificial. [2025].
+Carvalho, G. B. T. de; Belarmino, G. da S.; Lima, L. F. F. P. de; Ricarte, D. R. D.  
+**Uma Proposta de Requisitos Não Funcionais para Aderência de Sistemas Computacionais ao Projeto de Lei de Regulamentação da Inteligência Artificial**  
+*Workshop sobre as Implicações da Computação na Sociedade (WICS 2025)*, 2025.  
+Disponível em: [https://github.com/GiovanniBru/rnf-pl-regulamentacao-ia](https://github.com/GiovanniBru/rnf-pl-regulamentacao-ia)
 
 ## Licença
 
